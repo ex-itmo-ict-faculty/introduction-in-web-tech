@@ -74,6 +74,7 @@
    - **requirements.txt** - создать файл со следующим содержимым:
 
          Flask==2.0.1
+         Werkzeug==2.0.3
 
 
 **2. Создание Dockerfile:**
